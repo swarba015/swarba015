@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Scrapping with Python
 - 💞️ I’m looking to collaborate on analysis data of health care industries
 - 📫 Reach me at swarba015@gmail.com
--
 
 <!---
 swarba015/swarba015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
