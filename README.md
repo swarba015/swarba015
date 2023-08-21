@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @swarba015
-- 👀 I’m interested in Data Science, Analytics, and Visualization, Statistics, Machine Learnng
+- 👋 Hi, I’m Nuzhat, graduate student of University of Michigan AnnArbor
+- 👀 I’m interested in Data Science, Visualization, and Machine Learning
 - 📫 Reach me at swarba015@gmail.com
 
 <!---
